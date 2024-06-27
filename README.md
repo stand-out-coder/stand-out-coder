@@ -23,7 +23,7 @@
   [![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,obsidian,qt,figma,neovim,discord,stackoverflow,git,cmake,github,vscode)](https://skillicons.dev)
 
   ## - My contributions -
-  ![snake gif](https://github.com/stand-out-coder/stand-out-coder/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/stand-out-coder/stand-out-coder/blob/output/github-contribution-grid-snake.svg)
 
   ## - Stats -
   <img width=390 src="https://github-readme-streak-stats-stand-out-coder.vercel.app/?user=stand-out-coder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
