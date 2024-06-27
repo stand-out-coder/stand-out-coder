@@ -17,7 +17,7 @@
 
   ## - Programming languages I know -
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,go,batch,pascal,haskell,lua,processing,php,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,batch,pascal,go,haskell,lua,processing,php,ts)](https://skillicons.dev)
   <br>
   [![My Skills](https://skillicons.dev/icons?i=js,java,html,css)](https://skillicons.dev)
   
