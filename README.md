@@ -1,26 +1,38 @@
-# Привет, меня зовут Fixuty
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stand-out-coder.stand-out-coder" />
 
-### Про меня:
-Начал я свою карьеру программиста еще давно, но только год назад я наконец-то дошел к созданию портфолио.
-Проектов у меня много, но большинство я подозреваю не будут вам интересны...
-Здесь вы увидите проекты как и на многих вам известных языках программирования так и на очень неизвестных.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=009517&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+%5C(%5E_%5E)%2F!;My+name+is+Fixuty!;I+love+programming+%E2%99%A5!+" alt="Typing SVG" 
+  />
+</a>
 
-### Какие языки программирования я знаю:
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![MASM](https://img.shields.io/badge/-MASM-090909?style=for-the-badge&logo=masm)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c%23)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust)
-![Ruby](https://img.shields.io/badge/-Ruby-090909?style=for-the-badge&logo=ruby)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
-![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=bash)
-![Batch](https://img.shields.io/badge/-Batch-090909?style=for-the-badge&logo=batch)
-![Pascal](https://img.shields.io/badge/-Pascal-090909?style=for-the-badge&logo=pascal)
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
-![Haskell](https://img.shields.io/badge/-Haskell-090909?style=for-the-badge&logo=haskell)
-![Processing](https://img.shields.io/badge/-Processing-090909?style=for-the-badge&logo=Processing)
+<div align="center">
+ 
+ ## - About me -
+ 
+ 🎧 ❌I **don't** listen to music!❌ 🎙️
+
+📃 Currently working on an **ascii engine** for games! 📌
+
+💖 I like the **Ascii graphics** a lot! 💻
+
+  ## - Programming languages I know -
+  
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,go,haskell,lua,batch,pascal,processing,php,ts,js,java,html,css)](https://skillicons.dev)
+  
+  ## - The tools I use -
+  
+  [![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,obsidian,qt,figma,neovim,discord,stackoverflow,git,cmake,github,vscode)](https://skillicons.dev)
+
+  ## - My contributions -
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+  ## - Stats -
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=stand-out-coder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=stand-out-coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-stand-out-coder.vercel.app/api/top-langs/?username=stand-out-coder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  
+</div>
+
