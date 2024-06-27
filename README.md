@@ -28,8 +28,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/stand-out-coder/stand-out-coder/output/github-contribution-grid-snake.svg" />
 
   ## - Stats -
-  [![Stats](https://github-readme-stats.vercel.app/api?username=stand-out-coder\&rank_icon=github\&show_icons=true\&theme=dark#gh-dark-mode-only)]()
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stand-out-coder&layout=donut&theme=dark#gh-dark-mode-only)]()
+  <img style="width: 400px;" align="center" src="https://github-readme-stats.vercel.app/api?username=stand-out-coder&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only" alt="Stats">
+  <img style="width: 400px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stand-out-coder&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=009517&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=Thank+you+for+viewing+my+profile!%3CHow+about+grading+my+projects%3F+;%3E" alt="Typing SVG" 
