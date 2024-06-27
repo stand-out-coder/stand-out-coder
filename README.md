@@ -8,7 +8,6 @@
 <div align="center">
  
  ## - About me -
- 
  🎧 ❌I **don't** listen to music!❌ 🎙️
 
 📃 Currently working on an **ascii engine** for games! 📌
@@ -16,13 +15,11 @@
 💖 I like the **Ascii graphics** a lot! 💻
 
   ## - Programming languages I know -
-  
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,batch,pascal,go,haskell,lua,processing,php,ts)](https://skillicons.dev)
   <br>
   [![My Skills](https://skillicons.dev/icons?i=js,java,html,css)](https://skillicons.dev)
   
   ## - The tools I use -
-  
   [![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,obsidian,qt,figma,neovim,discord,stackoverflow,git,cmake,github,vscode)](https://skillicons.dev)
 
   ## - My contributions -
