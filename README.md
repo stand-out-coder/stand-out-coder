@@ -17,7 +17,9 @@
 
   ## - Programming languages I know -
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,go,haskell,lua,batch,pascal,processing,php,ts,js,java,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,rust,ruby,bash,go,batch,pascal,haskell,lua,processing,php,ts)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=js,java,html,css)](https://skillicons.dev)
   
   ## - The tools I use -
   
