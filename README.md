@@ -1,11 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stand-out-coder.stand-out-coder" />
+<!-- Oh well, my code isn't perfect X( -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=009517&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+%5C(%5E_%5E)%2F!;My+name+is+Fixuty!;I+love+programming+%E2%99%A5!+" alt="Typing SVG" 
-  />
-</a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stand-out-coder.stand-out-coder" />
+<br>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=009517&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+%5C(%5E_%5E)%2F!;My+name+is+Fixuty!;I+love+programming+%E2%99%A5!+" alt="Typing SVG" 
+    />
+  </a>
  
  ## - About me -
  🎧 ❌I **don't** listen to music!❌ 🎙️
@@ -26,11 +28,11 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/stand-out-coder/stand-out-coder/output/github-contribution-grid-snake.svg" />
 
   ## - Stats -
-  <img width=390 src="https://github-readme-streak-stats-stand-out-coder.vercel.app/?user=stand-out-coder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-stand-out-coder.vercel.app/api?username=stand-out-coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-stand-out-coder.vercel.app/api/top-langs/?username=stand-out-coder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  [![Stats](https://github-readme-stats.vercel.app/api?username=stand-out-coder\&rank_icon=github\&show_icons=true\&theme=dark#gh-dark-mode-only)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stand-out-coder&layout=donut&theme=dark#gh-dark-mode-only)]()
 
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=009517&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=Thank+you+for+viewing+my+profile!%3CHow+about+grading+my+projects%3F+;%3E" alt="Typing SVG" 
+    />
+  </a>
 </div>
-
