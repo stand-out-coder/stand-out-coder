@@ -15,9 +15,9 @@
 💖 I like the **Ascii graphics** a lot! 💻
 
   ## - Programming languages I know -
-  [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,ts,php,batch,pascal,go,c,lua,processing,ruby,bash)]()
+  [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,ts,php,,batch,,pascal,,go,c,lua,processing,ruby,bash)]()
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,haskell,rust)]()
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,haskell,rust,r)]()
   
   ## - The tools I use -
   [![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,obsidian,qt,figma,neovim,discord,stackoverflow,git,cmake,github,vscode)]()
